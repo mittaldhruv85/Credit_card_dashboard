@@ -5,7 +5,7 @@ Inidghts for a WoW change for 53rd week:-
 
 1) Revenue increased by 28.8%.
 2) Transaction volume decreased by 12.3%.
-3) Transaction amount decreased by 13.47%.
+3) Transaction amount decreased by 25.94%.
 4) Customer Count decreased by 18.9%.
 
 Insighst for a YTD change:-
